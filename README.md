@@ -23,7 +23,7 @@ Start the application by double clicking the executable.
 6. After this is done, you can click "Download all" to open all download links in your browser. CAREFUL: This could open a lot of tabs.
 7. After you have replaced the songs on your disk, click "Update selected version numbers". This will set every selected song's current version to the new version.
 
-## Problems
+## Known problems
 - The first time you run this program, it will not be able to find the current version of songs. This is because the .psarc files don't contain information that is displayed on the customsforge website. This is out of my reach sadly.
 - You have to login into your customsforge account. The website is used to find information about your songs. Sadly there is no other way as customsforge does not have an API or anything similar.
 - The update progress can not actually update your files (meaning, replace them with the new file). Users on customsforge upload their files to different file sharing websites, so this is also out of my reach.
