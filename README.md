@@ -3,7 +3,7 @@ An unofficial rocksmith 2014 custom dlc updater. This application can keep track
 
 ## Disclaimer
 Use this application at your own risk, I can not be held responsible for any damage to your pc.
-The creator of this application and this application itself are not affiliated with customsforge in any way.
+Me and this application itself are not affiliated with customsforge in any way.
 
 ## Installing
 Download the files from the bin/ directory and store them wherever you want.
