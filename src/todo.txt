@@ -1,0 +1,20 @@
+Bug: When searching, sometimes the searcher falls behind and searches on a previous term?
+
+Todo:
+	Make the songupdaterform use the Gecko Browser (might fix the external links bug as well)
+	Make the loginform use the Gecko Browser
+
+	After hiding a song, don't refresh the song list but just remove the row from the table.
+
+	Add instrument requirements
+
+Bug fixed, but might get bugged again or fuck up:
+	While navigating to the forum page the webbrowser will try to go to a facebook page as well.
+	This page will then be loaded in the default browser of the OS.
+	By checking if there's "#channel" in the url and canceling the navigating event this is fixed.
+
+Bug fixed, but might get bugged again or fuck up:
+	SongSearcherForm:
+		Certain parts of the song table aren't shown when the webbrowser is too small, because of the responsive design on the website.
+		I tried fixing this by setting the form size to 1660 x 900, and it seems to work. I have no idea what this does on smaller monitors.
+		The browser's form isn't actually shown so it might work.

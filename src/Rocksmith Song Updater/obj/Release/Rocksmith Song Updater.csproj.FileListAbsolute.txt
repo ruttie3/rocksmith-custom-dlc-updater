@@ -1,0 +1,30 @@
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\Rocksmith Song Updater.exe.config
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\Rocksmith Song Updater.exe
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\Rocksmith Song Updater.pdb
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\EntityFramework.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\Fizzler.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\HtmlAgilityPack.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\System.Data.SQLite.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\EntityFramework.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\Fizzler.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\HtmlAgilityPack.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Release\System.Data.SQLite.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.LoginForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.SongListForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.Properties.Resources.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.SongUpdaterForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith Song Updater.csproj.GenerateResource.Cache
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith Song Updater.exe
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith Song Updater.pdb
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.HiddenSongsForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.ReleaseNotesForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.SettingsForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith_Song_Updater.WebBrowserForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Release\Rocksmith Song Updater.csprojResolveAssemblyReference.cache

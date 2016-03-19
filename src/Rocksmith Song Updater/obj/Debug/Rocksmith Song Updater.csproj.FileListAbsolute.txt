@@ -1,0 +1,35 @@
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Rocksmith Song Updater.exe.config
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Rocksmith Song Updater.exe
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Rocksmith Song Updater.pdb
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith Song Updater.csprojResolveAssemblyReference.cache
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.Properties.Resources.resources
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith Song Updater.csproj.GenerateResource.Cache
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith Song Updater.exe
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith Song Updater.pdb
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\System.Data.SQLite.dll
+c:\users\rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.SongListForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\EntityFramework.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\EntityFramework.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Fizzler.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Fizzler.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.SongUpdaterForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.LoginForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.WebBrowserForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.SettingsForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.HiddenSongsForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.ReleaseNotesForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\Debug\Rocksmith_Song_Updater.SongSearchForm.resources
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Geckofx-Core.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Geckofx-Core.pdb
+C:\Users\Rutger\documents\visual studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\Debug\Geckofx-Winforms.pdb

@@ -1,0 +1,126 @@
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe.config
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.pdb
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Core.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Winforms.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.EF6.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.xml
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.xml
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Core.pdb
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Winforms.pdb
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.pdb
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.xml
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.HiddenSongsForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.LoginForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.ReleaseNotesForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SearcherWebBrowserForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SearchResultsForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SettingsForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongListForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.Properties.Resources.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongSearcherForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongSearchPopupForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongUpdaterForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.UpdaterWebBrowserForm.resources
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.csproj.GenerateResource.Cache
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.exe
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.pdb
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe.manifest
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.application
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.exe.manifest
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.application
+C:\Users\Rutger\Documents\Visual Studio 2013\Projects\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.csprojResolveAssemblyReference.cache
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe.config
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.exe
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe.manifest
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.application
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.Systems.HtmlAgilityPack.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Core.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Winforms.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.EF6.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.Linq.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Fizzler.Systems.HtmlAgilityPack.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Core.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\Geckofx-Winforms.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.csprojResolveAssemblyReference.cache
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.HiddenSongsForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.LoginForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.ReleaseNotesForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SearcherWebBrowserForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SearchResultsForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SettingsForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongListForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.Properties.Resources.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongSearcherForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongSearchPopupForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongUpdaterForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.UpdaterWebBrowserForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.csproj.GenerateResource.Cache
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.exe.manifest
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.application
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe.config
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.exe
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe.manifest
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.application
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.exe
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Rocksmith Custom DLC Updater.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\EntityFramework.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Fizzler.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Fizzler.Systems.HtmlAgilityPack.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Geckofx-Core.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Geckofx-Winforms.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.EF6.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.Linq.dll
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\EntityFramework.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Fizzler.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Fizzler.Systems.HtmlAgilityPack.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Geckofx-Core.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\Geckofx-Winforms.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.pdb
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\HtmlAgilityPack.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\bin\x86\Release\System.Data.SQLite.xml
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.csprojResolveAssemblyReference.cache
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.HiddenSongsForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.LoginForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.ReleaseNotesForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SearcherWebBrowserForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SearchResultsForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SettingsForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongListForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.Properties.Resources.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongSearcherForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongSearchPopupForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.SongUpdaterForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith_Custom_DLC_Updater.UpdaterWebBrowserForm.resources
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.csproj.GenerateResource.Cache
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.exe.manifest
+D:\Development\Rocksmith-Custom-DLC-Updater\src\Rocksmith Song Updater\obj\x86\Release\Rocksmith Custom DLC Updater.application
